@@ -10,7 +10,7 @@
     <groupId>org.hudsonci.plugins</groupId>
     <name>Reviewboard Publisher</name>
     <artifactId>reviewboard</artifactId>
-    <version>1.0.2-h-1</version>
+    <version>1.0.2-h-2-SNAPSHOT</version>
     <packaging>hpi</packaging>
   
     <url>http://wiki.hudson-ci.org/display/HUDSON/Reviewboard+Plugin</url>
